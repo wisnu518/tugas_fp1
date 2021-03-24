@@ -29,7 +29,7 @@
                     <tbody>
                         <tr>
                             <th style="width: 30%">NIM</th>
-                            <td>: 18090081/td>
+                            <td>: 18090081</td>
                         </tr>
                         <tr>
                             <th>Nama</th>
